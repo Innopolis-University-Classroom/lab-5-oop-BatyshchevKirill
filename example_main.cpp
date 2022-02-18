@@ -2,7 +2,7 @@
 //  main.cpp
 //  Landlord
 //
-//  Created by Gbrigens on 1/11/22.
+//  Created by Kirill Batyshchev on 18/02/22.
 //
 
 #include "landlord.h"
